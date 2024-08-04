@@ -1,4 +1,4 @@
-This project focuses on detecting faults in wind turbine sensor data using machine learning techniques(**Isolation Forest** and **LSTM Autoencoders**). The goal is to identify anomalies that could indicate potential faults or unusual behavior in the turbines. By analyzing SCADA (Supervisory Control and Data Acquisition) data from wind turbines, we can predict and mitigate failures, ensuring optimal performance and reducing downtime.
+This project focuses on detecting faults in wind turbine sensor data using machine learning techniques( **Isolation Forest** and **LSTM Autoencoders** ). The goal is to identify anomalies that could indicate potential faults or unusual behavior in the turbines. By analyzing SCADA (Supervisory Control and Data Acquisition) data from wind turbines, we can predict and mitigate failures, ensuring optimal performance and reducing downtime.
 
 **Dataset:**
 The dataset contains SCADA data from a wind turbine, including the following columns:
