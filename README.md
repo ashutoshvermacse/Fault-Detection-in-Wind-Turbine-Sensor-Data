@@ -11,9 +11,11 @@ Der Datensatz enthält SCADA-Daten einer Windturbine mit den folgenden Merkmalen
 
 Datenquelle: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
 
+
 ---
 
-# Project Description (English)
+
+## Fault Detection in Wind Turbine Sensor Data Using Machine Learning
 This project focuses on detecting faults in wind turbine sensor data using machine learning techniques( **Isolation Forest** and **LSTM Autoencoders** ). The goal is to identify anomalies that could indicate potential faults or unusual behavior in the turbines. By analyzing SCADA (Supervisory Control and Data Acquisition) data from wind turbines, we can predict and mitigate failures, ensuring optimal performance and reducing downtime.
 
 **Dataset:**
