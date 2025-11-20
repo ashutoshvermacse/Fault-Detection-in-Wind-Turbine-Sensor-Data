@@ -1,4 +1,4 @@
-# Projektbeschreibung (Deutsch)
+## Fehlererkennung in Windturbinendaten mittels Machine Learning
 Dieses Projekt konzentriert sich auf die Erkennung von Anomalien und potenziellen Fehlfunktionen in Sensordaten von Windturbinen mithilfe von Machine-Learning-Techniken ( **Isolation Forest** und **LSTM Autoencoders** ). Ziel ist es, Unregelmäßigkeiten zu identifizieren, die auf mögliche technische Defekte oder ungewöhnliches Verhalten der Turbinen hinweisen. Durch die Analyse von SCADA-Daten (Supervisory Control and Data Acquisition) können Ausfälle frühzeitig erkannt und verhindert werden, was zu einer Optimierung der Leistungsfähigkeit und einer Verringerung von Ausfallzeiten führt.
 
 **Datensatzbeschreibung**
