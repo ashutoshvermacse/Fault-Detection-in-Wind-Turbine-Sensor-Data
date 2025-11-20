@@ -1,3 +1,19 @@
+# Projektbeschreibung (Deutsch)
+Dieses Projekt konzentriert sich auf die Erkennung von Anomalien und potenziellen Fehlfunktionen in Sensordaten von Windturbinen mithilfe von Machine-Learning-Techniken ( **Isolation Forest** und **LSTM Autoencoders** ). Ziel ist es, Unregelmäßigkeiten zu identifizieren, die auf mögliche technische Defekte oder ungewöhnliches Verhalten der Turbinen hinweisen. Durch die Analyse von SCADA-Daten (Supervisory Control and Data Acquisition) können Ausfälle frühzeitig erkannt und verhindert werden, was zu einer Optimierung der Leistungsfähigkeit und einer Verringerung von Ausfallzeiten führt.
+
+**Datensatzbeschreibung**
+Der Datensatz enthält SCADA-Daten einer Windturbine mit den folgenden Merkmalen:
+- `Date/Time`: Zeitstempel in Intervallen von 10 Minuten
+- `LV ActivePower (kW)`: Tatsächlich von der Turbine erzeugte Leistung
+- `Wind Speed (m/s)`: Windgeschwindigkeit auf Nabenhöhe der Turbine
+- `Theoretical_Power_Curve (kWh)`: Theoretische Leistung laut Herstellerangaben
+- `Wind Direction (°)`: Windrichtung auf Nabenhöhe
+
+Datenquelle: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
+
+---
+
+# Project Description (English)
 This project focuses on detecting faults in wind turbine sensor data using machine learning techniques( **Isolation Forest** and **LSTM Autoencoders** ). The goal is to identify anomalies that could indicate potential faults or unusual behavior in the turbines. By analyzing SCADA (Supervisory Control and Data Acquisition) data from wind turbines, we can predict and mitigate failures, ensuring optimal performance and reducing downtime.
 
 **Dataset:**
